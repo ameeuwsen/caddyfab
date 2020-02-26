@@ -42,3 +42,8 @@ tests/_output/*
 tests/_support/_generated/*
 tests/cache/*
 tests/error.log
+
+# pages
+user/pages/*
+!public/user/pages/01.home
+!public/user/pages/01.about
