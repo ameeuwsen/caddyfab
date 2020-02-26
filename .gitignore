@@ -46,4 +46,4 @@ tests/error.log
 # pages
 user/pages/*
 !public/user/pages/01.home
-!public/user/pages/01.about
+!public/user/pages/02.about
